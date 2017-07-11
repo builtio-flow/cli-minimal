@@ -1,0 +1,26 @@
+{
+  "name": "minimal",
+  "version": "1.0.0",
+  "description": "Sample flow cli app for getting started with flow-cli App",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kailashyogeshwar85/minimal.git"
+  },
+  "keywords": [
+    "flow-cli",
+    "minimal-app"
+  ],
+  "dependencies": {
+    "request": "2.55.0"
+  },
+  "author": "Kailash Yogeshwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kailashyogeshwar85/minimal/issues"
+  },
+  "homepage": "https://github.com/kailashyogeshwar85/minimal#readme"
+}

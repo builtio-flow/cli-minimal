@@ -1,0 +1,10 @@
+{
+  "name":"minimalApp",
+  "description":"Flow minimimal app",
+  "triggers": [],
+  "lookups": [],
+  "actions": [],
+  "version": 1,
+  "auth_type": null,
+  "docs_link": "http://docs.example.com"
+}
