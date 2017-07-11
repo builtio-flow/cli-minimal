@@ -1,2 +1,2 @@
 # minimal
-Minimal app for getting started
+A minimal sample app for getting started with Flow CLI 
