@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "request": "2.55.0",
-    "flow-cli-sdk": "^0.0.2"
+    "flow-cli-sdk": "*"
   },
   "author": "Kailash Yogeshwar",
   "license": "ISC",
