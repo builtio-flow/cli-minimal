@@ -1,8 +1,7 @@
 {
   "name":"minimalApp",
   "description":"Flow minimimal app",
-  "triggers": [],
-  "lookups": [],
+  "triggers": [],  
   "actions": [],
   "version": 1,
   "auth_type": "basic",
