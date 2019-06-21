@@ -4,6 +4,6 @@
   "description": "Sample flow cli app for getting started with flow-cli app",
   "dependencies": {
     "request": "2.55.0",
-    "@builtioflow/cli-sdk": "*"
+    "@webmethodsio/cli-sdk": "*"
   }
 }
